@@ -1,3 +1,3 @@
 # Enigma-Machine
-Simulazione macchina enigma in python.
+Enigma machine simulation
 --------------------------------------
